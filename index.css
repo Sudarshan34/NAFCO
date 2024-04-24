@@ -1,0 +1,250 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+
+
+.home a {
+    color: black;
+     /* background: linear-gradient(to right, #ff4e50, #f9d423); */
+    margin-top: 0;
+    /* border: 2px dashed yellow; */
+    /* width: 80px; */
+    /* margin-top: 60px; */
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    position: fixed;
+    z-index: 1;
+    position: a;
+    cursor: pointer;
+    font-size: 25px;
+    text-decoration: 2px underline black;
+
+
+
+
+}
+
+
+
+.home a:hover {
+    font-weight: bolder;
+    color: yellow;
+    /* Slightly lighter gray on hover */
+
+
+
+}
+
+
+#navbar {
+    /* background: linear-gradient(to right, black, #ffee32); */
+    /* Green to Blue gradient */
+    background-color: yellowgreen;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(1, 1, 1, 5);
+    /* border: 2px dashed red; */
+    width: 100%;
+    box-sizing: border-box;
+    height: 80px;
+    position: fixed;
+    /* z-index: 1; */
+    margin-bottom: 500px;
+    
+
+}
+
+
+.logo
+{
+    width: 80px;
+    height: 65px;
+    border-radius: 70%;
+    margin-left: 1400px;
+}
+
+.body img {
+    width: 1500px;
+    /* margin: 10px; */
+    margin-left: 10px;
+    height: 600px;
+    margin-top: 110px;
+    position: absolute;
+    z-index: -1;
+}
+
+
+.para {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.para h1 {
+    position: absolute;
+    z-index: 3;
+    color: black;
+    margin-top:200px;
+    margin-left: 600px;
+   
+
+}
+
+.p1 {
+
+    /* position: absolute; */
+    margin-top: 400px;
+    font-weight: bolder;
+    margin-left: 30px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 40px;
+    text-align: start;
+    /* margin-bottom: 700px; */
+    padding: 10px;
+    color: black;
+
+
+}
+
+/* .p2 {
+    margin-top: 500px;
+    font-weight: bolder;
+    margin-left: 30px;
+    border: 2px solid white;
+    border-radius: 40px;
+    text-align: start;
+    color: white;
+    padding: 10px;
+    margin-right: 18px;
+
+} */
+
+/* .p3 {
+    font-weight: bolder;
+    margin-right: 20px;
+    margin-left: 30px;
+    border: 2px solid black;
+    border-radius: 40px;
+    text-align: start;
+    padding: 10px;
+    color: white;
+    border: 2px solid white;
+
+} */
+
+.p4{
+    font-weight: bolder;
+    margin-right: 20px;
+    margin-left: 30px;
+    margin-top: 400px;
+    border-radius: 40px;
+    /* margin-bottom: 700px; */
+    text-align: start;
+    background-color: white ;
+    color: black;
+    border  : 2px solid black;
+    padding: 10px;
+} 
+
+.line
+{
+
+    border: none;
+    height: 4px; /* Adjust thickness of the line */
+    background-color: #a8eb34; /* Adjust color as needed */
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+
+
+.add{
+    background-color:#e64343 ;
+    border-radius: 80px;
+    width: 1400px;
+    height: 200px;
+    margin-left: 70px;
+   
+}
+
+.add  h1
+{
+    margin-left: 650px;
+    text-decoration: 2px underline #e64343;
+    color: black;
+    padding: 10px;
+}
+
+.add h3{
+    margin-left: 650px;
+}
+
+
+
+.add p
+{
+
+    margin-left: 500px;
+   
+}
+
+.follow
+{
+
+    margin-top: 150px;
+    margin-left:750px;
+   
+   
+}
+
+.bold-line
+{
+    border: none;
+    height: 4px; /* Adjust thickness of the line */
+    background-color: #a8eb34; /* Adjust color as needed */
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 0;
+
+}
+
+.maps
+{
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.fa-brands
+{
+    margin-left: 450px;
+    margin-bottom: 50px;
+    color: white;
+
+
+}
+
+.insta{
+    color: white;
+}
+
+.fb{
+    color: white;
+}
+
+.fa-solid{
+    color: white;
+    margin-left: 640px;
+}
+
+
